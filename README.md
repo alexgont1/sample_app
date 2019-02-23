@@ -1,1 +1,1 @@
-# sample_app
+# sample_app (AWS+Heroku, #3)
