@@ -11,3 +11,5 @@
      - email [string]
      
      - password_digest [string]
+     
+     - remember_digest [string]
