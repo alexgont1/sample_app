@@ -15,3 +15,9 @@
      - remember_digest [string]
      
      - admin [boolean] //*rails generate migration add_admin_to_users admin:boolean; rails db:migrate
+     
+     - activation_digest [string]
+     
+     - activated [boolean]
+     
+     - activated_at [datetime]
