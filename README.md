@@ -21,3 +21,7 @@
      - activated [boolean]
      
      - activated_at [datetime]
+     
+     - reset_digest [string]
+     
+     - reset_sent_at [datetime]
