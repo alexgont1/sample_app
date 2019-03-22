@@ -25,3 +25,15 @@
      - reset_digest [string]
      
      - reset_sent_at [datetime]
+
+1. **Microposts**
+
+     - id    [integer]
+
+     - content  [text]
+
+     - user_id [integer]
+     
+     - created_at [datetime]
+     
+     - updated_at [datetime]
