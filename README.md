@@ -26,7 +26,7 @@
      
      - reset_sent_at [datetime]
 
-1. **Microposts**
+2. **Microposts**
 
      - id    [integer]
 
@@ -39,3 +39,15 @@
      - updated_at [datetime]
      
      - picture [string]
+     
+3. **Relationships**
+
+     - id    [integer]
+
+     - folower_id [integer]
+     
+     - folowed_id [integer]
+     
+     - created_at [datetime]
+     
+     - updated_at [datetime]
